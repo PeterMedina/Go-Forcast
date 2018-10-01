@@ -1,4 +1,4 @@
-# Go Forcast
+# Go Forecast
 
 Enter an address or location name and see the current weather for that place.
 
@@ -16,4 +16,4 @@ Download and run the executable.
 
 ## Planned Updates
 
-A planned future update of this project will include a table view that shows the forcast for multiple days.
+A planned future update of this project will include a table view that shows the forecast for multiple days.
