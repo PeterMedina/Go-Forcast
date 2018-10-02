@@ -16,7 +16,7 @@ func main() {
 	// Load the .env file to get API keys
 	err := godotenv.Load()
 	if err != nil {
-		log.Fatal("Error loading .env file")
+		log.Fatal("Error loading .env file. Make sure you have a .env file with Dark Sky and Google Maps API keys.")
 	}
 
 	// Declare the API keys for Dark Sky and Google Maps.
